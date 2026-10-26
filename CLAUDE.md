@@ -40,6 +40,12 @@ Every output should be a custom curriculum vitae or cover letter which aligns wi
 - Use practical examples whenever possible
 - If uncertain, ask before proceeding
 - Review outputs before final delivery
+- Never invent experience, qualifications or contact details
+- Keep facts such as dates, employers and qualifications consistent across all CVs and cover letters
+
+## Privacy
+
+These files contain personal information. Do not upload, share or publish them to external services unless explicitly asked.
 
 ## File Naming Rules
 
