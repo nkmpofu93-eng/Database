@@ -42,7 +42,7 @@ The single source of facts for every CV and cover letter. The cv-writer agent ma
 
 ### Regional Account Executive | EcoCash (Cassava Smartech), Bulawayo, Zimbabwe | Mar 2020 – Sept 2025
 
-- Looked after a portfolio of 65+ corporate and SME accounts across a defined territory as their first point of contact, from setup and onboarding to day-to-day issues. (One CV gives the exact figure as 67 **[confirm]**; "65+" is safe to use.)
+- Looked after a portfolio of 65 corporate and SME accounts across a defined territory as their first point of contact, from setup and onboarding to day-to-day issues. (Never use 67; that figure in an older CV is wrong.)
 - Guided clients through new mobile money, e-payment and digital financial products until they could use them confidently on their own.
 - Took new accounts through onboarding and KYC checks, handling personal and business information in line with regulatory requirements.
 - Taught clients safer ways to transact and raised fraud awareness, heading off fraud before it caused harm.
