@@ -58,3 +58,11 @@ Examples:
 
 - `ai-agent-research.md`
 - `workflow-documentation.md`
+
+## Workspace Layout
+
+- `profile/master-profile.md`: the single source of facts for all CVs and cover letters. Items marked [confirm] must not be used until confirmed.
+- `.claude/agents/cv-writer.md`: the agent that writes a tailored CV and cover letter from a job description.
+- `tools/build-pdf.py`: turns a CV or cover letter written in Markdown into a PDF in the Barclays CV layout.
+- `applications/<company>-<role>/`: one folder per application, holding the job description, the Markdown sources and the PDFs.
+- Older CVs in the repository root are kept for reference.
